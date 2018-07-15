@@ -1,2 +1,2 @@
-# DS
+# pighunt
 for personal projects
